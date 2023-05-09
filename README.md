@@ -1,3 +1,3 @@
 # AtividadesJava
 
-Local reservado para armezar erxecícos realizados em java
+Local reservado para armazenar erxecícos realizados em java
