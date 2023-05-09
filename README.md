@@ -1,3 +1,3 @@
-# AtividadeJava
+# AtividadesJava
 
-### Local reservado para armezar erxecícos de java realizados
+Local reservado para armezar erxecícos realizados em java
